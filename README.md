@@ -1,4 +1,3 @@
-## Elliot Evans
 ### Senior Software Engineer
 
 <img src="https://github-readme-stats.vercel.app/api?username=Elliot-Evans-95&include_all_commits=true&count_private=true&custom_title=Stats" alt="stats" width="40%"/>
