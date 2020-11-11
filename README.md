@@ -1,16 +1,16 @@
-### Hi there 👋
+### eeeelloooeverybodythisispurge... 👋
 
-<!--
-**Elliot-Evans-95/Elliot-Evans-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=Elliot-Evans-95&include_all_commits=true&count_private=true&custom_title=Stats" alt="stats" align="left" width="45%"/>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elliot-Evans-95&layout=compact" alt="top-languages" align="right" width="45%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Senior Software Engineer at a Startup
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate with anyone who knows about web-audio
+- 🤔 I’m looking for help with terraform & kubernetes
+- 💬 Ask me anything
+- 📫 How to reach me:
+  - Write a letter
+  - Buy racing pigeon
+  - Send letter via pigeon
+- ⚡ Fun fact: I am an avid music producer who never releases music 😂
