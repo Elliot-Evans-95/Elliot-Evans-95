@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elliot Evans
+Hi 👋 My name is Elliot Evans
 ====================================================================================================================================
 
 Senior Front-end Consultant at [Ensono Digital](https://www.ensonodigital.com/)
------------------------------------------------
+-------------------------------------------------------------------------------
 
 5+ years experience making cool stuff on the web.
 
@@ -52,6 +52,7 @@ Senior Front-end Consultant at [Ensono Digital](https://www.ensonodigital.com/)
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/elliotevans"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
