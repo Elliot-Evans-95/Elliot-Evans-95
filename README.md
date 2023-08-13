@@ -4,12 +4,12 @@ Hi 👋 My name is Elliot Evans
 Senior Front-end Consultant at [Ensono Digital](https://www.ensonodigital.com/)
 -------------------------------------------------------------------------------
 
-5+ years experience making cool stuff on the web.
+10 years of making cool stuff on the web.
 
 * 🌍  I'm based in Stoke-on-Trent
 * 🖥️  See my portfolio at [https://elliotevans.site/](http://https://elliotevans.site/)
 * ✉️  You can contact me at [blazes\_captain.0o@icloud.com](mailto:blazes_captain.0o@icloud.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning custom Nx Generators
 * 🤝  I'm open to collaborating on Web Audio projects
 * ⚡  Making music in my spare time
 
