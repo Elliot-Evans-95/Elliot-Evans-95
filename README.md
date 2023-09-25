@@ -1,8 +1,6 @@
-Hi 👋 My name is Elliot Evans
-====================================================================================================================================
+**Hi 👋 My name is Elliot Evans**
 
-Senior Front-end Consultant at [Ensono Digital](https://www.ensonodigital.com/)
--------------------------------------------------------------------------------
+_Senior Frontend Consultant at [Ensono Digital](https://www.ensonodigital.com/)_
 
 10 years of making cool stuff on the web.
 
@@ -13,14 +11,28 @@ Senior Front-end Consultant at [Ensono Digital](https://www.ensonodigital.com/)
 * 🤝  I'm open to collaborating on Web Audio projects
 * ⚡  Making music in my spare time
 
-### Stats
+### Mentor
+
+<a href="https://mentorcruise.com/mentor/elliotevans/">
+<img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="25%" alt="MentorCruise Banner">
+</a>
+
+
+<a href="https://mentorcruise.com/mentor/elliotevans/">
+<img src="https://mentorcruise.com/mentor/elliotevans/widget/" loading="lazy" width="25%" alt="MentorCruise Stats">
+</a>
+
+<br/>
+
+
+#### Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Elliot-Evans-95&include_all_commits=true&count_private=true&custom_title=Stats&show_icons=true&theme=dracula" alt="stats" width="40%"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elliot-Evans-95&layout=compact&show_icons=true&theme=dracula" alt="top-languages" width="32%"/>
 <br/>
 
-### Skills
+#### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -52,7 +64,3 @@ Senior Front-end Consultant at [Ensono Digital](https://www.ensonodigital.com/)
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/elliotevans"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
