@@ -7,19 +7,19 @@ _Senior Frontend Consultant at [Ensono Digital](https://www.ensonodigital.com/)_
 * 🌍  I'm based in Stoke-on-Trent
 * 🖥️  See my portfolio at [https://elliotevans.site/](http://https://elliotevans.site/)
 * ✉️  You can contact me at [blazes\_captain.0o@icloud.com](mailto:blazes_captain.0o@icloud.com)
-* 🧠  I'm learning custom Nx Generators
+* 🧠  I'm learning [https://deno.com/](Deno) & [https://fresh.deno.dev/](Fresh)
 * 🤝  I'm open to collaborating on Web Audio projects
-* ⚡  Making music in my spare time
+* ⚡  Making music and speedrunning in my spare time
 
 ### Mentor
 
 <a href="https://mentorcruise.com/mentor/elliotevans/">
-<img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="25%" alt="MentorCruise Banner">
+  <img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="25%" alt="MentorCruise Banner">
 </a>
 
 
 <a href="https://mentorcruise.com/mentor/elliotevans/">
-<img src="https://mentorcruise.com/mentor/elliotevans/widget/" loading="lazy" width="25%" alt="MentorCruise Stats">
+  <img src="https://mentorcruise.com/mentor/elliotevans/widget/" loading="lazy" width="25%" alt="MentorCruise Stats">
 </a>
 
 <br/>
