@@ -7,7 +7,7 @@ More than 10 years of making cool stuff on the web.
 * 🌍  I'm based in Stoke-on-Trent
 * 🖥️  See my portfolio at [https://elliotevans.site/](http://https://elliotevans.site/)
 * ✉️  You can contact me at [blazes\_captain.0o@icloud.com](mailto:blazes_captain.0o@icloud.com)
-* 🧠  I'm learning [Deno](https://deno.com/) & [Fresh]([Fresh](https://fresh.deno.dev/))
+* 🧠  I'm learning [Deno](https://deno.com/) & [Fresh]([Fresh](https://fresh.deno.dev/)
 * 🤝  I'm open to collaborating on Web Audio projects
 * ⚡  Making music and speedrunning in my spare time
 
