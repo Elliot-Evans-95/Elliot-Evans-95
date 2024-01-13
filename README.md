@@ -2,12 +2,12 @@
 
 _Senior Frontend Consultant at [Ensono Digital](https://www.ensonodigital.com/)_
 
-10 years of making cool stuff on the web.
+More than 10 years of making cool stuff on the web.
 
 * 🌍  I'm based in Stoke-on-Trent
 * 🖥️  See my portfolio at [https://elliotevans.site/](http://https://elliotevans.site/)
 * ✉️  You can contact me at [blazes\_captain.0o@icloud.com](mailto:blazes_captain.0o@icloud.com)
-* 🧠  I'm learning [https://deno.com/](Deno) & [https://fresh.deno.dev/](Fresh)
+* 🧠  I'm learning [Deno](https://deno.com/) & [Fresh]([Fresh](https://fresh.deno.dev/))
 * 🤝  I'm open to collaborating on Web Audio projects
 * ⚡  Making music and speedrunning in my spare time
 
@@ -28,7 +28,6 @@ _Senior Frontend Consultant at [Ensono Digital](https://www.ensonodigital.com/)_
 #### Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Elliot-Evans-95&include_all_commits=true&count_private=true&custom_title=Stats&show_icons=true&theme=dracula" alt="stats" width="40%"/>
-<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elliot-Evans-95&layout=compact&show_icons=true&theme=dracula" alt="top-languages" width="32%"/>
 <br/>
 
