@@ -1,14 +1,14 @@
 **Hi 👋 My name is Elliot Evans**
 
-_Senior Frontend Consultant at [Ensono Digital](https://www.ensonodigital.com/)_
+_Lead Frontend Developer at [Tree Thunk](https://www.trrethunk.com)_
 
 More than 10 years of making cool stuff on the web.
 
 * 🌍  I'm based in Stoke-on-Trent
-* 🖥️  See my portfolio at [https://elliotevans.site/](http://https://elliotevans.site/)
-* ✉️  You can contact me at [blazes\_captain.0o@icloud.com](mailto:blazes_captain.0o@icloud.com)
+* 🖥️  See my portfolio at [https://elliotevans.dev/](http://https://elliotevans.dev/)
+* ✉️  You can contact me at [elliot.evans.web@gmail.com](mailto:elliot.evans.web@gmail.com)
 * 🧠  I'm learning [Deno](https://deno.com/) & [Fresh](https://fresh.deno.dev/)
-* 🤝  I'm open to collaborating on Web Audio projects
+* 🤝  I'm open to contract work
 * ⚡  Playing competitive field hockey in my spare time
 
 ### Mentor
@@ -23,7 +23,6 @@ More than 10 years of making cool stuff on the web.
 </a>
 
 <br/>
-
 
 #### Stats
 
