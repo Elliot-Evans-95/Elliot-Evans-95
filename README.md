@@ -1,8 +1,8 @@
 # Hi, 👋 Elliot Evans here 👨‍💻
 
-_Lead Frontend Developer at [Tree Thunk](https://www.treethunk.com). **I am currently available for contract work 🤝**_
+_Lead Full-stack Developer at [Tree Thunk](https://www.treethunk.com). **I am currently available for contract work 🤝**_
 
-<a href="https://elliotevans.dev/">
+<a href="https://treethunk.com">
   <img src="https://elliotevans.dev/images/other/Elliot-Evans_Banner_2024.webp" width="100%" alt="Elliot Evans Banner">
 </a>
 &nbsp;
@@ -19,7 +19,7 @@ More than 10 years of making cool stuff on the web.
 
 ## Mentor 🧑‍🏫
 
-For the two years, I have been mentoring numerous people; here is a small breakdown:
+For the past two years, I have been mentoring numerous people; here is a small breakdown:
 
 <a href="https://mentorcruise.com/mentor/elliotevans/">
   <img src="https://mentorcruise.com/mentor/elliotevans/widget/" loading="lazy" width="33%" alt="Elliot Evans's MentorCruise Stats">
