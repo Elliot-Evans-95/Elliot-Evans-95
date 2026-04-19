@@ -23,7 +23,7 @@ I am currently working as a Frontend Architect at Widgit.
 For the past three years, I have been mentoring numerous people; here is a small breakdown:
 
 <a href="https://mentorcruise.com/mentor/elliotevans/">
-  <img src="https://mentorcruise.com/mentor/elliotevans/widget/" loading="lazy" width="33%" alt="Elliot Evans's MentorCruise Stats">
+  <img src="https://mentorcruise.com/mentor/elliotevans/widget/" loading="lazy" width="20%" alt="Elliot Evans's MentorCruise Stats">
 </a>
 
 <hr/>
