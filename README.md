@@ -1,14 +1,15 @@
 # Hi, 👋 Elliot Evans here 👨‍💻
 
-_Lead Full-stack Developer at [Tree Thunk](https://www.treethunk.com). **I am currently available for contract work 🤝**_
+_Lead Full-stack Developer at [Tree Thunk](https://www.treethunk.com). 
+
+I am currently working as a Frontend Architect at Widgit.
 
 <a href="https://treethunk.com">
   <img src="https://elliotevans.dev/images/other/Elliot-Evans_Banner_2024.webp" width="100%" alt="Elliot Evans Banner">
 </a>
 &nbsp;
 
-More than 10 years of making cool stuff on the web.
-
+* 👨‍💻 Over 10 years of web development experience
 * 🌍 Based in England, UK
 * 🖥️ View my [my companies website](https://www.treethunk.com)
 * ✉️ For inquires [contact me via email](mailto:elliot@treethunk.com)
@@ -19,7 +20,7 @@ More than 10 years of making cool stuff on the web.
 
 ## Mentor 🧑‍🏫
 
-For the past two years, I have been mentoring numerous people; here is a small breakdown:
+For the past three years, I have been mentoring numerous people; here is a small breakdown:
 
 <a href="https://mentorcruise.com/mentor/elliotevans/">
   <img src="https://mentorcruise.com/mentor/elliotevans/widget/" loading="lazy" width="33%" alt="Elliot Evans's MentorCruise Stats">
@@ -38,6 +39,6 @@ For the past two years, I have been mentoring numerous people; here is a small b
 
 ## Acolates ✍️
 
-* Created an award-winning e-commerce website
-* Top 5% of Mentors on Mentorcruise
+* Created an award-winning e-commerce application
+* Top 3% of Mentors on Mentorcruise
 * Part of the team that maintained and updated a one-million-viewed-a-week website
