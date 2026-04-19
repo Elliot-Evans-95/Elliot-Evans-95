@@ -1,6 +1,6 @@
 # Hi, 👋 Elliot Evans here 👨‍💻
 
-_Lead Full-stack Developer at [Tree Thunk](https://www.treethunk.com). 
+_Lead Full-stack Developer at [Tree Thunk](https://www.treethunk.com)._
 
 I am currently working as a Frontend Architect at Widgit.
 
