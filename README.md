@@ -32,9 +32,10 @@ For the past three years, I have been mentoring numerous people; here is a small
 
 * Languages: Typescript, Javascript, Python, GO, HTML, CSS
 * Frameworks: Angular, Next.js, Gatsby, Nest.js, Express, Expo
-* Libraries: React, React Native, React Query, Redux, RXJS, Zustand, React Router
+* Libraries: React, React Native, React Query / TanStack Query, Redux, RXJS, Zustand, React Router, TanStack
 * Runtimes: Node, Deno
 * Styling: Styled Components, CSS Modules, SCSS, Tailwind
+* Component library: MUI, Shadcn/ui
 * Testing: Cypress, Jest, Vitest, Testing Library, Mock Service Worker, Mockery
 
 ## Acolates ✍️
