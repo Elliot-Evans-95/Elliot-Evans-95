@@ -1,6 +1,6 @@
 # Hi, 👋 Elliot Evans here 👨‍💻
 
-_Lead Full-stack Developer at [Tree Thunk](https://www.treethunk.com)._
+_Senior Full-Stack Developer_
 
 I am currently working as a Frontend Architect at Widgit.
 
@@ -9,12 +9,12 @@ I am currently working as a Frontend Architect at Widgit.
 </a>
 &nbsp;
 
-* 👨‍💻 Over 10 years of web development experience
-* 🌍 Based in England, UK
-* 🖥️ View my [my companies website](https://www.treethunk.com)
-* ✉️ For inquires [contact me via email](mailto:elliot@treethunk.com)
-* 🤝 I'm open to contract work
-* 💼 Checkout my updates on [LinkedIn](https://www.linkedin.com/in/elliot-evans-/)
+* 👨‍💻 Over 11 years of web development experience
+* 🌍 Based in Stoke-on-Trent, UK
+* 🖥️ View my [my website](https://www.elliotevans.dev)
+* ✉️ For inquires [contact me via email](mailto:elliot@elliotevans.dev)
+* 🤝 Available for hire
+* 💼 Checkout my updates on [LinkedIn](https://www.linkedin.com/in/elliot-evans-dev/)
 
 <hr/>
 
@@ -30,8 +30,8 @@ For the past three years, I have been mentoring numerous people; here is a small
 
 ## Skills 💻
 
-* Languages: Typescript, Javascript, Python, GO, HTML, CSS
-* Frameworks: Angular, Next.js, Gatsby, Nest.js, Express, Expo
+* Languages: Typescript, Javascript, Python, GO, Python, Ruby, HTML, CSS
+* Frameworks: Angular, Next.js, Svelte, Gatsby, Astro, Nest.js, Express, Expo
 * Libraries: React, React Native, React Query / TanStack Query, Redux, RXJS, Zustand, React Router, TanStack
 * Runtimes: Node, Deno
 * Styling: Styled Components, CSS Modules, SCSS, Tailwind
