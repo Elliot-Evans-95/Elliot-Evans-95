@@ -4,8 +4,6 @@ _Senior Full-Stack Developer_
 
 I am currently working as a _Frontend Architect at Widgit until October 2026_
 
-&nbsp;
-
 * 👨‍💻 Over 11 years of web development experience
 * 🌍 Based in Stoke-on-Trent, UK
 * 🖥️ View my [my website](https://www.elliotevans.dev)
