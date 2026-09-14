@@ -2,11 +2,8 @@
 
 _Senior Full-Stack Developer_
 
-I am currently working as a Frontend Architect at Widgit.
+I am currently working as a _Frontend Architect at Widgit until October 2026_
 
-<a href="https://treethunk.com">
-  <img src="https://elliotevans.dev/images/other/Elliot-Evans_Banner_2024.webp" width="100%" alt="Elliot Evans Banner">
-</a>
 &nbsp;
 
 * 👨‍💻 Over 11 years of web development experience
